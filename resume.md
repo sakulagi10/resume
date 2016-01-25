@@ -44,27 +44,33 @@
 
 # 技能清单
 
-以下均为我熟练使用的技能
+以下均为我的技能(0-10)
 
+## 语言相关：
+ - Java(7)
 ## 数据库相关：
- - MySQL
- - Oracle
- - Gbase
- - Redis
- - Hbase
+ - MySQL(6)
+ - Oracle(6)
+ - Gbase(7)
+ - Redis(7)
+ - Hbase(6)
  
 ## 版本管理：
- - Svn
- - Git
+ - Svn(6)
+ - Git(6)
  
 ## bigData和分布式：
- - Hadoop
- - MR
- - Hive
- - Storm
- - Kafka
- - Flume
- - Zookeeper
+ - Hadoop(7)
+ - MR(7)
+ - Hive(7)
+ - Storm(8)
+ - Kafka(7)
+ - Flume(6)
+ - Zookeeper(6)
+
+## 其他：
+ - Linux(7)
+ - Shell(7)
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
