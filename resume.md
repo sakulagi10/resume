@@ -44,7 +44,12 @@
 
 以下均为我熟练使用的技能
 
-## 数据库相关：MySQL/Oracle/Gbase/Redis/Hbase
+## 数据库相关：
+ - MySQL
+ - Oracle
+ - Gbase
+ - Redis
+ - Hbase
 ## 版本管理：
  - Svn
  - Git
