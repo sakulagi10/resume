@@ -50,9 +50,11 @@
  - Gbase
  - Redis
  - Hbase
+ 
 ## 版本管理：
  - Svn
  - Git
+ 
 ## bigData和分布式：
  - Hadoop
  - MR
