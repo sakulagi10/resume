@@ -30,6 +30,11 @@
 
  - 负责部分：平台搭建，简单运维；批处理数据清洗加载。
 
+# 开源项目
+- [ops](https://github.com/gongice/ops)
+- [custom-logger](https://github.com/gongice/custom-logger)
+- [kafka-storm-redis](https://github.com/gongice/kafka-storm-redis)
+
 # 技能清单
 以下均为我的技能(0-10)
 ## 语言相关：
