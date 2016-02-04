@@ -33,7 +33,7 @@
 # 开源项目
 - [ops](https://github.com/gongice/ops)
 - [custom-logger](https://github.com/gongice/custom-logger)
-- [kafka-storm-redis](https://github.com/gongice/kafka-storm-redis)
+- [storm-rawlog-manager](https://github.com/gongice/storm-rawlog-manager)
 
 # 技能清单
 以下均为我的技能(0-10)
