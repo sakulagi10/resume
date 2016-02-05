@@ -34,6 +34,7 @@
 - [ops](https://github.com/gongice/ops)
 - [custom-logger](https://github.com/gongice/custom-logger)
 - [storm-rawlog-manager](https://github.com/gongice/storm-rawlog-manager)
+- [git-demo](https://github.com/gongice/git-demo)
 
 # 技能清单
 以下均为我的技能(0-10)
