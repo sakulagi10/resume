@@ -31,10 +31,14 @@
  - 负责部分：平台搭建，简单运维；批处理数据清洗加载。
 
 # 开源项目
-- [ops](https://github.com/gongice/ops)
-- [custom-logger](https://github.com/gongice/custom-logger)
-- [storm-rawlog-manager](https://github.com/gongice/storm-rawlog-manager)
-- [git-demo](https://github.com/gongice/git-demo)
+*点击项目名称即可访问*
+
+| 项目名称       | 简介           |
+| :-------------: |:-------------:|
+| [ops](https://github.com/gongice/ops)      | 一些平常使用的运维脚本，已经在公司hadoop生产集群，storm生产集群使稳定使用。 |
+| [ddu](https://github.com/gongice/ddu)     | 一些技术摘记     |
+| [storm-rawlog-manager](https://github.com/goGbasengice/storm-rawlog-manager) | 一个流处理原始日志项目（主要使用storm、kafka、redis、Gbase）      |
+| [git-demo](https://github.com/gongice/git-demo) | git和github进行协同开发流程、gitflow摘记      |
 
 # 技能清单
 *以下均为我的技能(0-10)*
