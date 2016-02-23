@@ -4,9 +4,10 @@
 
 ---
 # 个人信息
+ - 龚世文
  - 本科/赣南师范大学计算机系
  - 工作年限：2年
- - 技术博客：[http://gshiwen.com/](http://gshiwen.com/ "gshiwen")
+ - 技术博客：[http://gshiwen.com/](http://gshiwen.com/blog)
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java高级程序员
  - 期望薪资：税前月薪12k~20k，特别喜欢的公司可例外（```视城市、环境而定```）
