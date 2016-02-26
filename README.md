@@ -9,7 +9,7 @@
  - 工作年限：2年
  - 技术博客：[http://gshiwen.com/](http://gshiwen.com/blog)
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
- - 期望职位：Java高级程序员
+ - 期望职位：Java高级程序员(大数据方向)
  - 期望薪资：税前月薪12k~20k，特别喜欢的公司可例外（```视城市、环境而定```）
  - 期望城市：福州
 
@@ -27,18 +27,19 @@
 ## 新大陆软件工程 （ 2013年11月 ~ 至今 ）
 ### 新疆移动大数据项目二期（流处理平台建设，2015年10月-至今）
  - 负责部分：
-```text
-1、流平台处理平台的整体规划、搭建。（storm、kafka、Redis Cluster）
-2、数据实时清洗/存储
-3、营销平台应用开发（事件捕获、处理)
-```
+1. 流平台处理平台的整体规划、搭建。（storm、kafka、Redis Cluster）
+1. 数据实时清洗/存储
+1. 营销平台应用开发（事件捕获、处理)
 
 ### 南京流处理xx运营商测试项目（2015年9月-2015年10月）
  - 负责部分：数据分发存储（```根据数据属性，实时将每一条数据分发存入数据库，FTP目录、HDFS```）
 
 ### 新疆移动大数据项目一期（hadoop 平台建设，2014年9月-2015年1月）
 
- - 负责部分：平台搭建，简单运维；批处理数据清洗加载。
+ - 负责部分：
+1. 平台搭建
+1. 运维(直到交付到运维人员)
+1. 批处理数据清洗加载(MR清洗加载入Gbase)。
 
 # 开源项目
 *点击项目名称即可访问*
@@ -46,9 +47,9 @@
 | 项目名称       | 简介           |
 | :-------------: |:-------------:|
 | [ops](https://github.com/gongice/ops)      | 一些平常使用的运维脚本，已经在公司hadoop生产集群，storm生产集群使稳定使用。 |
-| [ddu](https://github.com/gongice/ddu)     | 一些技术摘记     |
+| [ddu](https://github.com/gongice/ddu)     | 记录学习点滴和一些技术摘记     |
 | [storm-rawlog-manager](https://github.com/goGbasengice/storm-rawlog-manager) | 一个流处理原始日志项目（主要使用storm、kafka、redis、Gbase）      |
-| [git-demo](https://github.com/gongice/git-demo) | git和github进行协同开发流程、gitflow摘记      |
+| [git-demo](https://github.com/gongice/git-demo) | git和github进行协同开发流程、git-workflow的一些摘记      |
 
 # 技能清单
 *以下均为我的技能(0-10)*
