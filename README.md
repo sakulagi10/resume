@@ -45,7 +45,7 @@
 *点击项目名称即可访问*
 
 | 项目名称       | 简介           |
-| :-------------: |:-------------:|
+| :-------------: |:-------------|
 | [***ops***](https://github.com/gongice/ops)      | 一些平常使用的运维脚本，已经在公司hadoop生产集群，storm生产集群使稳定使用。 |
 | [***ddu***](https://github.com/gongice/ddu)     | 记录学习点滴和一些技术摘记     |
 | [***storm-rawlog-manager***](https://github.com/goGbasengice/storm-rawlog-manager) | 一个流处理原始日志项目（主要使用storm、kafka、redis、Gbase）      |
