@@ -1,7 +1,7 @@
 # 联系方式
 - Email：gshiwen@gmail.com
 - QQ/微信号：847468565
-
+- 手机：18559973424
 ---
 # 个人信息
  - 龚世文
@@ -10,7 +10,7 @@
  - 技术博客：[http://gshiwen.com/](http://gshiwen.com/blog)
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java高级程序员(大数据方向)
- - 期望薪资：税前月薪12k~20k，特别喜欢的公司可例外（```视城市、环境而定```）
+ - 期望薪资：税前月薪12k~20k（```视城市、环境而定```）
  - 期望城市：福州
 
 ---
