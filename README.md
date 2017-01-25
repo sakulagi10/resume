@@ -6,11 +6,11 @@
 ---
 # 个人信息
  - 龚世文
- - 本科/赣南师范大学计算机系
- - 工作年限：2年
- - 技术博客：[http://gshiwen.com/](http://gshiwen.com/blog)
+ - 本科/赣南师范大学数学与计算机系
+ - 工作年限：3年
+ - 技术博客：~~[http://gshiwen.com/](http://gshiwen.com/blog)~~ 阿里云么钱续费了，废了:point_right:[https://github.com/gongice/ddu]
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
- - 期望职位：Java高级程序员(大数据方向)
+ - 期望职位：Java后端、大数据岗位
  - 期望薪资：税前月薪12k~20k（```视城市、环境而定```）
  - 期望城市：福州
 
