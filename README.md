@@ -57,12 +57,16 @@
 | [***ddu***](https://github.com/gongice/ddu)     | 记录学习点滴和一些技术摘记     |
 | [***storm-rawlog-manager***](https://github.com/gongice/storm-rawlog-manager) | 一个流处理原始日志项目（主要使用storm、kafka、redis、Gbase）      |
 | [***git-demo***](https://github.com/gongice/git-demo) | git和github进行协同开发流程、git-workflow的一些摘记      |
+| [***SSM脚手架***](https://github.com/gongice/ssm_vms/tree/develop) | SSM脚手架      |
 
 # 技能清单
 *以下均为我的技能(0-10)*
 ## 语言相关：
  - Java(7)
  - Scala(5)
+
+## Web框架：
+ - Java Web 框架SSM-Spring、SpringMvc、Mybatis(7)
 
 ## 数据库相关：
  - MySQL(6)
