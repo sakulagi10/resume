@@ -8,7 +8,7 @@
  - 龚世文
  - 本科/赣南师范大学数学与计算机系
  - 工作年限：3+年
- - 技术博客：:point_right:[https://github.com/gongice/ddu]
+ - 技术博客：:point_right:[https://github.com/gongice/ddu]()
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java后端、大数据开发岗位
  - 期望薪资：税前月薪16k+（```base 福州```）
