@@ -8,7 +8,7 @@
  - 龚世文
  - 本科/赣南师范大学数学与计算机系
  - 工作年限：3+年
- - 技术博客：~~[http://gshiwen.com/](http://gshiwen.com/blog)~~ 阿里云么钱续费了，废了:point_right:[https://github.com/gongice/ddu]
+ - 技术博客：:point_right:[https://github.com/gongice/ddu]
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java后端、大数据开发岗位
  - 期望薪资：税前月薪16k+（```base 福州```）
@@ -26,9 +26,17 @@
 ## 风灵创景科技有限公司 （ 2017年4月 ~ 至今 ） 推荐/广告系统开发工程师
 ### 海外新闻客户端推荐系统（马来市场，InstaBuzz）
 - 负责部分：
-1. 离线推荐任务/算法：基于Spark ALS 推荐引擎开发user/item协同过滤；hive，python的基础数据处理；NLK（只涉及文本相似度的计算，用于推荐）
+1. 离线推荐任务/算法：
+ - 基于Spark ALS 推荐引擎开发user/item协同过滤
+ - hive sql,MR,python的基础数据处理
+ - NLK（只涉及文本相似度的计算，用于基于内容的推荐）
 
-1. 在线推荐系统（主要负责）：在线推荐系统后端API设计；召回算法设计实现；ABtest设计；Redis数据同步；利用weka建模分析用户的特征数据提升CTR
+1. 在线推荐系统（主要负责）：
+ - 在线推荐系统后端API设计
+ - 召回算法设计实现
+ - ABTest设计,评估算法的有效性
+ - Redis数据同步,离线计算数据与线上算法同步
+ - 利用weka建模分析用户的特征数据提升CTR
 
 ## 网龙网络公司 （ 2016年4月 ~ 2017年3月 ） java后端开发
 ### 基于Titan图数据（Elasticsearch、Cassandra）库计算引擎的教育资源检索系统
