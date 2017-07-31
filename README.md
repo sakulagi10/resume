@@ -11,7 +11,7 @@
  - 技术博客：~~[http://gshiwen.com/](http://gshiwen.com/blog)~~ 阿里云么钱续费了，废了:point_right:[https://github.com/gongice/ddu]
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java后端、大数据开发岗位
- - 期望薪资：税前月薪15k+（```base 福州```）
+ - 期望薪资：税前月薪16k+（```base 福州```）
  - 期望城市：福州
 
 ---
