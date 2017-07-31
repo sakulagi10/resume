@@ -107,7 +107,7 @@
  - Cassandra(5)
 
 ## 其他：
- - Linux(7)
+ - Linux(6)
  - Shell(7)
  - markdown(7)
 
