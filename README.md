@@ -96,7 +96,7 @@
  - Svn(6)
  - Git(7)
 
-## bigData和分布式：
+## BigData和分布式：
  - Hadoop/MapReduce/Hive(7)
  - Storm/JStorm(7)
  - Kafka(7)
