@@ -1,6 +1,6 @@
 # 联系方式
 - Email：gshiwen@gmail.com
-- WeChat：847468565
+- WeChat：gshiwen
 - Phone：18559973424
 
 ---
