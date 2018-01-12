@@ -7,11 +7,10 @@
 # 个人信息
  - 龚世文
  - 本科/赣南师范大学数学与计算机系
- - 工作年限：3+年
- - 技术博客：:point_right:[https://github.com/gongice/ddu]()
+ - 工作年限：3.53 年
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
  - 期望职位：Java后端、大数据开发岗位
- - 期望薪资：税前月薪16k+（```base 福州```）
+ - 期望薪资：税前月薪18k+（```base 福州```）
  - 期望城市：福州
 
 ---
@@ -30,7 +29,7 @@
     - 基于Spark ALS 推荐引擎开发user/item协同过滤
     - hive sql,MR,python的基础数据处理
     - NLK（只涉及文本相似度的计算，用于基于内容的推荐）
-    - 内容关键字提取，TF-IDF 计算
+    - TF-IDF 计算
 
   - 在线推荐系统（主要负责）：
     - 在线推荐系统后端API设计
@@ -92,17 +91,15 @@
 
 ## 构建工具：
 - Maven(7)
+- Gradle(6)
 
 ## 版本管理：
  - Svn(6)
  - Git(7)
 
 ## bigData和分布式：
- - Hadoop(7)
- - MapReduce(7)
- - Hive(7)
- - Storm(8)
- - JStorm(7)
+ - Hadoop/MapReduce/Hive(7)
+ - Storm/JStorm(7)
  - Kafka(7)
  - Flume(6)
  - Spark(6)
