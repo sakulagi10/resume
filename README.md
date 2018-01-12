@@ -85,7 +85,6 @@
 ## 数据库相关：
  - MySQL(6)
  - Oracle(6)
- - Gbase(6)
  - Redis(7)
  - Hbase(6)
 
