@@ -9,7 +9,7 @@
  - 本科/赣南师范大学数学与计算机系
  - 工作年限：3.53 年
  - Github: [https://github.com/gongice](https://github.com/gongice "Github")
- - 期望职位：Java后端、大数据开发岗位
+ - 期望职位：Java后端/推荐/大数据开发岗位
  - 期望薪资：税前月薪18k+（```base 福州```）
  - 期望城市：福州
 
